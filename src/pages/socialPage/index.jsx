@@ -4,7 +4,7 @@ import images from 'images'
 const linkData = [
   {
     field: 'REVIEWS',
-    link: '/',
+    link: 'https://www.google.com/search?q=Bansal+Nursing+Home+%26+Leproscopy+Center&rlz=1C1CHBF_enIN919IN919&oq=Bansal+Nursing+Home+%26+Leproscopy+Center&aqs=chrome..69i57j0i22i30j0i390i650l3j69i61j69i60.828j0j15&sourceid=chrome&ie=UTF-8# ',
     image: images.review
   },
   {
