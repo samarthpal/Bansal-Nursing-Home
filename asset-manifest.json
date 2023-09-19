@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Bansal-Nursing-Home/static/css/main.913c7b12.css",
+    "main.js": "/Bansal-Nursing-Home/static/js/main.858fd0a1.js",
+    "static/media/back.png": "/Bansal-Nursing-Home/static/media/back.af4a29d801f5db2e24e9.png",
+    "static/media/logo.png": "/Bansal-Nursing-Home/static/media/logo.e07e7f72e135f7f11c2b.png",
+    "static/media/youtube.png": "/Bansal-Nursing-Home/static/media/youtube.1ee2f39b02cee665a3e2.png",
+    "static/media/facebook.png": "/Bansal-Nursing-Home/static/media/facebook.0d6ca15b859dca340ad1.png",
+    "static/media/instagram.png": "/Bansal-Nursing-Home/static/media/instagram.c79c0d7ab601eda94c17.png",
+    "index.html": "/Bansal-Nursing-Home/index.html",
+    "main.913c7b12.css.map": "/Bansal-Nursing-Home/static/css/main.913c7b12.css.map",
+    "main.858fd0a1.js.map": "/Bansal-Nursing-Home/static/js/main.858fd0a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.913c7b12.css",
+    "static/js/main.858fd0a1.js"
+  ]
+}
