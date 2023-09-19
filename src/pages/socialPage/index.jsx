@@ -4,7 +4,7 @@ import images from 'images'
 const linkData = [
   {
     field: 'REVIEWS',
-    link: 'https://g.page/r/CaiQRsNDp72wEB0/review',
+    link: '/',
     image: images.review
   },
   {
